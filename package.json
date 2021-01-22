@@ -1,6 +1,6 @@
 {
   "name": "mdimg-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download images from markdown file",
   "bin": {
     "mdimages-downloader": "./bin/mdimages-downloader.js"
